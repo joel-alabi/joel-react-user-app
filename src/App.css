@@ -1,0 +1,45 @@
+.App {
+  width: 100%;
+  min-height: 90vh;
+  margin: 0px;
+  display: flex;
+}
+
+.App__user-form {
+  width: 50%;
+  min-height: 1000px;
+  background-color: white;
+  padding: 10px;
+  margin: 70px;
+}
+
+.App__user-info {
+  width: 70%;
+  min-height: 400px;
+  background-color: white;
+  padding: 10px;
+  margin: 30px;
+}
+button{
+  height: 30px;
+  width: 100px;
+  border-radius: 5px;
+  background-color: greenyellow;
+}
+input{
+  height: 30px;
+  width: 300px;
+  border-radius: 5px;
+}
+.button_delete{
+  height: 30px;
+  width: 100px;
+  border-radius: 5px;
+  background-color: red;
+}
+.button{
+  width:50px;
+  height:20px;
+  padding-left: 0px;
+  padding-top: 0px;
+}
