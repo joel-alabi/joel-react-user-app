@@ -1,4 +1,3 @@
-import { getFirebase } from "react-redux-firebase"
 
 export  const addUser = (user) => {
     return (dispatch,state,{getFirestore}) => {
